@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Awesome Devops CICD with Ansible and Kubernetes</h1>
+    <h1>Best CICD Solution</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
