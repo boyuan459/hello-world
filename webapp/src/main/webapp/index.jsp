@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> CICD with Ansible, Jenkins, GitHub, Docker Integration</h1>
+   <h1> CICD with Ansible, Jenkins, GitHub, Kubernetes Integration</h1>
 
   
 </form>
